@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <div class="home-container">
-      <img class="banner" src="/assets/Horizon.png"
+      <img class="banner" src="assets/Horizon.png"
         alt="participate, customize characters, and narrate interactively">
       <h1 class="slogan">Quick and easy RPG character builder!</h1>
       <h3 class="description">
@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
 
       <div class="section-container">
         <div class="card">
-          <img src="/assets/Aloy.jpg" alt="Aloy">
+          <img src="assets/Aloy.jpg" alt="Aloy">
           <h2>Aloy</h2>
           <p>
             She is a machine hunter created to stop HADES, a rogue AI bent on reactivating the
@@ -40,7 +40,7 @@ import { Component } from '@angular/core';
           <button>VIEW</button>
         </div>
         <div class="card">
-          <img src="/assets/Erend.jpg" alt="Erend">
+          <img src="assets/Erend.jpg" alt="Erend">
           <h2>Erend</h2>
           <p>
             He is a member and later captain of the Carja Sun-King Avad’s Vanguard. He assisted
@@ -51,7 +51,7 @@ import { Component } from '@angular/core';
           <button>VIEW</button>
         </div>
         <div class="card">
-          <img src="/assets/Sylens.jpg" alt="Sylens">
+          <img src="assets/Sylens.jpg" alt="Sylens">
           <h2>Sylens</h2>
           <p>
             He is a wandering traveler, archaeologist, researcher, and the founder of the Eclipse

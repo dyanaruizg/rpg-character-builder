@@ -91,7 +91,7 @@ export class PlayersComponent {
         "faction": "Machine hunter",
         "startingLocation": "North of Mother's Rise",
         "funFact": "Aloy is a clone who's destined to save the world.",
-        "imgPath": "/assets/Aloy2.jpg",
+        "imgPath": "assets/Aloy2.jpg",
         "imgAlt": "Aloy"
       },
       {
@@ -101,7 +101,7 @@ export class PlayersComponent {
         "faction": "Lone Wanderer",
         "startingLocation": "Mobile",
         "funFact": "For all of his life, he has been obsessed with uncovering the fate of the Old Ones.",
-        "imgPath": "/assets/Sylens2.jpg",
+        "imgPath": "assets/Sylens2.jpg",
         "imgAlt": "Sylens"
       },
       {
@@ -111,7 +111,7 @@ export class PlayersComponent {
         "faction": "Nora Brave",
         "startingLocation": "Sacred Lands",
         "funFact": "While resolute and morally upright, Varl's greatest strength is his emotional insight.",
-        "imgPath": "/assets/Varl.jpeg",
+        "imgPath": "assets/Varl.jpeg",
         "imgAlt": "Varl"
       },
       {
@@ -121,7 +121,7 @@ export class PlayersComponent {
         "faction": "Captain of the Vanguard",
         "startingLocation": "Carja Sundom",
         "funFact": "Erend helped defend the Carja capital against the attack by the Shadow Carja cult.",
-        "imgPath": "/assets/Erend2.jpg",
+        "imgPath": "assets/Erend2.jpg",
         "imgAlt": "Erend"
       },
       {
@@ -131,7 +131,7 @@ export class PlayersComponent {
         "faction": "Leader of Chainscrape",
         "startingLocation": "Eastern Sundom",
         "funFact": "Petra abandoned the claim in her youth.",
-        "imgPath": "/assets/Petra.jpg",
+        "imgPath": "assets/Petra.jpg",
         "imgAlt": "Petra"
       },
       {
@@ -141,7 +141,7 @@ export class PlayersComponent {
         "faction": "Guard",
         "startingLocation": "Daytower",
         "funFact": "Part of his garrison has disappeared in Nora's lands.",
-        "imgPath": "/assets/Lakhir.jpg",
+        "imgPath": "assets/Lakhir.jpg",
         "imgAlt": "Lakhir"
       },
       {
@@ -151,7 +151,7 @@ export class PlayersComponent {
         "faction": "High Matriarch",
         "startingLocation": "South of Mother's Rise",
         "funFact": "Jezza is one of the three ruling High Matriarchs of the Nora tribe.",
-        "imgPath": "/assets/Jezza.jpg",
+        "imgPath": "assets/Jezza.jpg",
         "imgAlt": "Jezza"
       },
       {
@@ -161,7 +161,7 @@ export class PlayersComponent {
         "faction": "Sun-King Avad",
         "startingLocation": "Palace of the Sun",
         "funFact": "Avad desires a working relationship with other tribes based on mutual respect.",
-        "imgPath": "/assets/Avad.jpg",
+        "imgPath": "assets/Avad.jpg",
         "imgAlt": "Avad"
       },
       {
@@ -171,7 +171,7 @@ export class PlayersComponent {
         "faction": "Hunter",
         "startingLocation": "Sunhawk",
         "funFact": "She is a Hawk and proudly descended from an illustrious line of Carja noble hunters.",
-        "imgPath": "/assets/Talanah.jpg",
+        "imgPath": "assets/Talanah.jpg",
         "imgAlt": "Talanah"
       },
       {
@@ -181,7 +181,7 @@ export class PlayersComponent {
         "faction": "Vanguard",
         "startingLocation": "Carja Sundom",
         "funFact": "Ersa was forced to grow up quickly in response to the poor leadership of her father.",
-        "imgPath": "/assets/Ersa.jpg",
+        "imgPath": "assets/Ersa.jpg",
         "imgAlt": "Ersa"
       }
     ];
